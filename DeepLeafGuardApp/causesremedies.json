@@ -1,0 +1,360 @@
+{
+  "Apple Scab": [
+    {
+      "Causes": "Apple Scab is caused by the fungus Venturia Inaequalis. The Apple Scab fungus overwinters on fallen diseased leaves. In Spring, these fungi shoot spores into the air."
+    },
+    {
+      "Remedies": "Myclobutanil (Spectracide Immunox Multipurpose Fungicide Spray Concentrate) is a synthetic fungicide that is effective against Apple Scab. You can apply it any time from green tip until after petal fall."
+    }
+  ],
+
+
+  "Apple Black Rot": [
+    {
+      "Causes": "Black Rot is an important disease of Apple caused by the fungus Botryosphaeria Obtusa. Black Rot fungus infects a wide variety of hardwood trees, including Apple and Pear. Infected trees are often a source of infection for nearby younger bearing blocks."
+    },
+    {
+      "Remedies": "1.Prune out dead or diseased branches.\n2.Pick all dried and shriveled fruits remaining on the trees.\n3.Remove infected plant material from the area."
+    }
+  ],
+
+
+  "Apple Cedar Apple Rust": [
+    {
+      "Causes":"Cedar Apple Rust is caused by the fungal pathogen Gymnosporangium Juniperi-Virginianae."
+    },
+    {
+      "Remedies":"If you see the lesions on the apple leaves or fruit, it is too late to control the fungus. In that case, you should focus on purging infected leaves and fruit from around your tree. Spraying apple trees with copper can be done to treat Cedar Apple Rust and prevent other fungal infections."
+    }
+  ],
+
+
+  "Apple Healthy": [
+    {
+      "Causes": "N/A \nThe leaf is Healthy!!! Apples are an incredibly nutritious fruit that offers multiple health benefits. They're rich in fiber and antioxidants."
+    },
+    {
+      "Remedies":
+      "N/A! The leaf is Healthy!!!\nEating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer. Apples may also promote weight loss and improve gut and brain health."
+    }
+  ],
+  "Blueberry Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nBlueberries can help heart health, bone strength, skin health, blood pressure, diabetes management, cancer prevention, and mental health."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\n1.Blueberries are low in calories but high in nutrients\n2.Blueberries are one of the top antioxidant foods.\n3.Blueberries reduce DNA damage, which may help protect against aging and cancer."
+    }
+  ],
+  "Cherry (including Sour) Powdery Mildew": [
+    {
+      "Causes": "Powdery Mildew of sweet and sour Cherry is caused by Podosphaera Clandestina, an obligate biotrophic fungus. Mid- and late-season sweet cherry (Prunus Avium) cultivars are commonly affected, rendering them unmarketable due to the covering of white fungal growth on the cherry surface."
+    },
+    {
+      "Remedies": "Pruning. Humid conditions favor cherry Powdery Mildew. A well pruned canopy will promote more air flow and leaf drying, reducing these humid conditions favorable for disease. Pruning will also help to achieve good spray coverage."
+    }
+  ],
+  "Cherry (including Sour) Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\n Tart Cherries contain several vitamins and minerals that are great for the immune system. These also have antioxidants that prevent cellular and oxidative damage to the body."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\n1.High nutrient profile.\n2.Improve sleep quality and aid insomnia.\n3.Relieve muscle soreness.\n4.May alleviate the symptoms of arthritis.\n5.Boost immunity.\n6.Good for Brain Health."
+    }
+  ],
+  "Corn(Maize) Cercospora Gray Leaf Spot": [
+    {
+      "Causes": "Gray leaf spot, caused by the fungus Cercospora Zeae-Maydis, occurs virtually every growing season. If conditions favor disease development, economic losses can occur. Symptoms first appear on lower leaves about two to three weeks before tasseling."
+    },
+    {
+      "Remedies": "1.During the growing season, Foliar fungicides can be used to manage gray leaf spot outbreaks.\n2.Farmers must consider the cost of the application and market value of their Corn before determining if fungicides will be an economical solution to GLS."
+    }
+  ],
+  "Corn(Maize) Common Rust": [
+    {
+      "Causes": "Common Rust is caused by the fungus Puccinia Sorghi and occurs every growing season. It is seldom a concern in hybrid Corn. Rust pustules usually first appear in late June. Early symptoms of common rust are chlorotic flecks on the leaf surface."
+    },
+    {
+      "Remedies": "Maize Rusts are generally controlled by the use of resistant maize hybrids, and by foliar applications of fungicides on Sweet Corn. Cultural practices may be effective in areas where rust spores can overwinter on debris or where infected Oxalis species are a source of spores."
+    }
+  ],
+
+  "Corn(Maize) Northern Leaf Blight": [
+    {
+      "Causes": "Northern Corn Leaf Blight (NCLB) is caused by the fungus Setosphaeria Turcica. Symptoms usually appear first on the lower leaves. Leaf lesions are long (1 to 6 inches) and elliptical, gray-green at first but then turn pale gray or tan."
+    },
+    {
+      "Remedies": "Apply sprays based on Azoxystrobin, Picoxystrobin, Mancozeb, Pyraclostrobin, Propiconazole, Tetraconazole Apply products based on Picoxystrobin + Cyproconazole, Pyraclostrobin + Metconazole, Propiconazole + Azoxystrobin, Prothioconazole + Trifloxystrobin. Seed treatments are not recommended."
+    }
+  ],
+
+  "Corn(Maize) Healthy": [
+    {
+      "Causes": "Corn is rich in vitamin C, an antioxidant that helps protect your cells from damage and wards off diseases like cancer and heart disease. Yellow Corn is a good source of the Carotenoids Lutein and Zeaxanthin, which are good for eye health and help prevent the lens damage that leads to Cataracts."
+    },
+    {
+      "Remedies": "It prevents Haemorrhoids.\nIt promotes growth.\nIt helps you gain weight.\nIt provides minerals.\nIt prevents cancer.\nIt protects your heart.\nIt prevents Anemia.\nIt's good for the eyes and skin."
+    }
+  ],
+
+  "Grape Black Rot": [
+    {
+      "Causes": "Black Rot, caused by the fungus Guignardia Bidwellii, is a serious disease of cultivated and wild grapes. The disease is most destructive in warm, wet seasons. It attacks all green parts of the vine – leaves, shoots, leaf and fruit stems, tendrils, and fruit. The most damaging effect is to the fruit."
+    },
+    {
+      "Remedies": "Where black rot is a problem, apply a fungicide every 14 days after the New Shoot spray up to and including the Before Ripening spray. During long rainy periods, shorten the interval to 7 to 10 days between sprays."
+    }
+  ],
+
+  "Grape Esca (Black Measles)": [
+    {
+      "Causes": "Esca, Botryosphaeria dieback, Eutypa dieback, and Phomopsis dieback make up a complex of trunk diseases caused by different wood-infecting fungi. The foliar symptom of Esca is an interveinal \"striping\". The \"stripes\", which start out as dark red in red cultivars and yellow in white cultivars, dry and become necrotic."
+    },
+    {
+      "Remedies": "Mancozeb, and Ziram are all highly effective against Black Rot. Because these fungicides are strictly protectants, they must be applied before the fungus infects or enters the plant. They protect fruit and foliage by preventing spore germination."
+    }
+  ],
+
+  "Grape Leaf Blight (Isariopsis Leaf Spot)": [
+    {
+      "Causes": "Bacterial Blight of grapevine is a serious, chronic and systemic disease of grapevine that affects commercially important cultivars. It is caused by the bacterium Xylophilus Ampelinus which survives in the vascular tissues of infected plants."
+    },
+    {
+      "Remedies": "Apply dormant sprays to reduce inoculum levels.\nCut it out.\nOpen up that canopy.\nDon't let down your defenses.\nScout early, scout often.\nUse protectant and systemic fungicides.\nConsider fungicide resistance.\nWatch the weather."
+    }
+  ],
+
+
+
+  "Grape Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nGrapes are a good source of Potassium, a mineral that helps balance fluids in your body. Potassium can help bring down high blood pressure and lower your risk of heart disease and stroke."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nImprove Skin and Heart Health\nSome studies have shown that polyphenols may also protect against cardiovascular problems, cancer, diabetes, and aging. Grapes also contain resveratrol, which is a type of polyphenol."
+    }
+  ],
+
+  "Orange Haunglongbing (Citrus Greening)": [
+    {
+      "Causes": "Citrus Greening is spread by a disease-infected insect, the Asian citrus Psyllid (Diaphorina Citri Kuwayama or ACP), and has put the future of America's Citrus at risk. Infected trees produce fruits that are green, misshapen and bitter, unsuitable for sale as fresh fruit or for juice."
+    },
+    {
+      "Remedies": "Citrus Greening (Candidatus Liberibacter Asiaticus) is one of the most serious citrus plant diseases in the world. It is also known as Huanglongbing (HLB) or Yellow Dragon disease. Once a tree is infected, there is no cure."
+    }
+  ],
+  "Peach Bacterial Spot": [
+    {
+      "Causes": "Bacterial Spot is an important disease of peaches, nectarines, apricots, and plums caused by Xanthomonas Arboricola pv. Pruni (XAP), formerly Xanthomonas Campestris pv. Pruni. The disease's symptoms include fruit spots, leaf spots and twig cankers."
+    },
+    {
+      "Remedies": "Compounds available for use on peach and nectarine for bacterial spot include Copper, Oxytetracycline (Mycoshield and generic equivalents), and Syllit + Captan; However, repeated applications are typically necessary for even minimal disease control."
+    }
+  ],
+
+  "Peach Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nPeaches Promote Healing\nJust one medium peach has about 11% of the vitamin C you need each day. This nutrient helps your body heal wounds and keeps your immune system going strong."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nPeaches Promote Healing.\nHelp Your Eyesight.\nKeep Digestion Running Smoothly.\nHelp You Stay a Healthy Weight.\nGet Your Vitamin E.\nKeep Your Bones Healthy.\nGo Easy on Your Gut. \nGive You Something to Smile About."
+    }
+  ],
+
+  "Pepper Bell Bacterial Spot": [
+    {
+      "Causes": "Bacterial leaf spot, caused by Xanthomonas Campestris pv. Vesicatoria, is the most common and destructive disease for peppers in the eastern United States. It is a gram-negative, rod-shaped bacterium that can survive in seeds and plant debris from one season to another (Frank et al)."
+    },
+    {
+      "Remedies": "Seed treatment with hot water, soaking seeds for 30 minutes in water pre-heated to 125 F/51 C, is effective in reducing bacterial populations on the surface and inside the seeds. However, seed germination may be affected by heat treatment if not done accurately, while the risk is relatively low with bleach treatment."
+    }
+  ],
+
+  "Pepper Bell Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nBell peppers are low in calories and high in nutrients, including several important vitamins, including vitamin C. You'll get 120 milligrams of vitamin C from just 1 cup of chopped green bell pepper. Vitamin C helps your body absorb iron and heal wounds."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nThey are an excellent source of vitamin C, especially the ripest peppers, which are red. Peppers are also a good source of vitamin A and fiber. Bell peppers also have antioxidant properties, which may help to protect against diseases such as cardiovascular disease and some cancers."
+    }
+  ],
+
+  "Potato Early Blight": [
+    {
+      "Causes": "Early Blight of Potato is caused by the fungal pathogen Alternaria Solani. The disease affects leaves, stems and tubers and can reduce yield, tuber size, storability of tubers, quality of fresh-market and processing tubers and marketability of the crop."
+    },
+    {
+      "Remedies": "Early Blight can be minimized by maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests. Grow later maturing, longer season varieties. Fungicide application is justified only when the disease is initiated early enough to cause economic loss."
+    }
+  ],
+
+  "Potato Late Blight": [
+    {
+      "Causes": "Late Blight caused by the fungus Phytophthora Infestans is the most important disease of potato that can result into crop failures in a short period if appropriate control measures are not adopted."
+    },
+    {
+      "Remedies": "Late Blight is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary. Air drainage to facilitate the drying of foliage each day is important."
+    }
+  ],
+
+  "Potato Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nPotatoes contain significant amounts of fiber. Fiber helps lower the total amount of cholesterol in the blood, thereby decreasing the risk of heart disease. Research based on the NHANES has linked a higher intake of potassium and a lower intake of sodium to a reduced risk of all-cause mortality and heart disease."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nEating potatoes may boost your immune system and help you beat a cold or flu. A medium-size baked potato gives you about 27 milligrams of vitamin C. Potatoes also contain high amounts of fiber and iron, especially if you eat them with their skin."
+    }
+  ],
+
+  "Raspberry Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nThey provide potassium, essential to heart function, and proven to lower blood pressure. The omega-3 fatty acids in raspberries can help prevent stroke and heart disease. They also contain a mineral called manganese, which is necessary for healthy bones and skin and helps regulate blood sugar."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nThey provide potassium, essential to heart function, and proven to lower blood pressure. The omega-3 fatty acids in raspberries can help prevent stroke and heart disease. They also contain a mineral called manganese, which is necessary for healthy bones and skin and helps regulate blood sugar."
+    }
+  ],
+
+  "Soybean Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nSoybeans and soy foods may reduce the risk of a range of health problems, including cardiovascular disease, stroke, coronary heart disease (CHD) and some cancers, as well as improving bone health. Soy is a high-quality protein – one or 2 daily serves of soy products can be beneficial to our health."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nIt may have anti-diabetic properties.\nIt may have an antioxidant effect.\nIt may possess anti-cancer properties.\nIt may have anti-inflammatory properties.\nIt may have cardio-protective properties.\nIt may possess anti-microbial properties."
+    }
+  ],
+  "Squash Powdery Mildew": [
+    {
+      "Causes": "Powdery mildew, mainly caused by the fungus Podosphaera xanthii, infects all cucurbits, including muskmelons, squash, cucumbers, gourds, watermelons and pumpkins. Powdery mildew infections favor humid conditions with temperatures around 68-81° F. In warm, dry conditions, new spores form and easily spread the disease."
+    },
+    {
+      "Remedies": "Extracted from the seeds and fruits of the tropical neem tree, neem oil is often used as a pesticide. However, neem oil is also an effective fungicide against powdery mildew on squash. It's best used as a preventative, before powdery mildew becomes severe."
+    }
+  ],
+
+  "Strawberry Leaf Scorch": [
+    {
+      "Causes": "caused by the fungus Phomopsis obscurans, is an important summertime disease because so few varieties have adequate resistance to it."
+    },
+    {
+      "Remedies": "Begin with clean plant material.\nUse proper sanitation.\nRemove infected leaves and debris.\nIncrease air circulation to encourage leaf drying.\nConsider resistant cultivars.\nUse fungicides if disease becomes severe."
+    }
+  ],
+
+  "Strawberry Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nStrawberries are rich in vitamin C and other antioxidants, which help reduce the risk of serious health conditions like cancer, diabetes, stroke, and heart disease. It's also an excellent source of: Magnesium. Phosphorous."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nimprove blood antioxidant status.\ndecrease oxidative stress.\nreduce inflammation.\nimprove vascular function.\nimprove your blood lipid profile.\nreduce the harmful oxidation of LDL (bad) cholesterol.\n"
+    }
+  ],
+
+
+  "Tomato Bacterial Spot": [
+    {
+      "Causes": "Bacterial spot of tomato is caused by Xanthomonas vesicatoria, Xanthomonas euvesicatoria, Xanthomonas gardneri, and Xanthomonas perforans. These bacterial pathogens can be introduced into a garden on contaminated seed and transplants, which may or may not show symptoms."
+    },
+    {
+      "Remedies": "A plant with bacterial spot cannot be cured. Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants. Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit."
+    }
+  ],
+
+  "Tomato Early Blight": [
+    {
+      "Causes": "Early blight can be caused by two closely related species: Alternaria tomatophila and Alternaria solani. The early blight pathogens both overwinter in infected plant debris and soil in Minnesota. The pathogen also survives on tomato seed or may be introduced on tomato transplants."
+    },
+    {
+      "Remedies": "Cover the soil under the plants with mulch, such as fabric, straw, plastic mulch, or dried leaves. Water at the base of each plant, using drip irrigation, a soaker hose, or careful hand watering. Pruning the bottom leaves can also prevent early blight spores from splashing up from the soil onto leaves."
+    }
+  ],
+
+  "Tomato Late Blight": [
+    {
+      "Causes": "Phytophthora infestans is the oomycete, or water mold pathogen, responsible for tomato late blight. In the united states, this fungus-like organism overwinters primarily in plant debris as mycelia, a filamentous thread-like growth of the pathogen."
+    },
+    {
+      "Remedies": "Spraying fungicides is the most effective way to prevent late blight. For conventional gardeners and commercial producers, protectant fungicides such as chlorothalonil (e.g., Bravo, Echo, Equus, or Daconil) and Mancozeb (Manzate) can be used."
+    }
+  ],
+
+  "Tomato Leaf Mold": [
+    {
+      "Causes": "Tomato leaf mold is caused by a fungal pathogen called Passalora fulva (syn. Cladosporium fulvum). It is an ascomycete fungus that lives on living tomato leaves. The fungus produces conidia that infect the lower surfaces of leaves."
+    },
+    {
+      "Remedies": "Applying fungicides when symptoms first appear can reduce the spread of the leaf mold fungus significantly. Several fungicides are labeled for leaf mold control on tomatoes and can provide good disease control if applied to all the foliage of the plant, especially the lower surfaces of the leaves."
+    }
+  ],
+
+
+
+  "Tomato Septoria Leaf Spot": [
+    {
+      "Causes": "Septoria leaf spot is caused by the fungus Septoria lycopersici. This fungus can attack tomatoes at any stage of development, but symptoms usually first appear on the older, lower leaves and stems when plants are setting fruit. Symptoms usually appear on leaves, but can occur on petioles, stems, and the calyx."
+    },
+    {
+      "Remedies": "Remove diseased leaves. If caught early, the lower infected leaves can be removed and burned or destroyed. ...\nImprove air circulation around the plants. ...\nMulch around the base of the plants. ...\nDo not use overhead watering. ...\nControl weeds. ...\nUse crop rotation. ...\nUse fungicidal sprays."
+    }
+  ],
+
+  "Tomato Spider Mites Two Spotted Spider Mite": [
+    {
+      "Causes": "Spider mite feeding can cause numerous yellow or white tiny granulated spots on tomato leaves. The infestation mostly occurs under hot and dry conditions. Spider mites are very tiny and can be seen on underside of the leaves. During heavy infestation spider mites can be seen all over the plant."
+    },
+    {
+      "Remedies": "insecticidal soap (M-Pede)\nneem oil (Trilogy)\nsoybean oil (Golden Pest Spray Oil)"
+    }
+  ],
+
+
+
+  "Tomato Target Spot": [
+    {
+      "Causes": "Target spot of tomato is caused by the fungal pathogen Corynespora cassiicola. 1 The disease occurs on field-grown tomatoes in tropical and subtropical regions of the world. Target spot was first observed on tomatoes in the U.S. in Immokalee, Florida in 1967."
+    },
+    {
+      "Remedies": "Many fungicides are registered to control of target spot on tomatoes. Growers should consult regional disease management guides for recommended products. Products containing chlorothalonil, mancozeb, and copper oxychloride have been shown to provide good control of target spot in research trials."
+    }
+  ],
+
+
+  "Tomato Yellow Leaf Curl Virus": [
+    {
+      "Causes": "Tomato leaf curl disease is caused by viruses in the Geminivirus family of plant viruses, and is spread by whiteflies. The virus causing this disease is tomato yellow leaf curl virus (TYLCV)."
+    },
+    {
+      "Remedies": "Once infected with the virus, there are no treatments against the infection. Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies."
+    }
+  ],
+
+  "Tomato Mosaic Virus": [
+    {
+      "Causes": "The tomato potyviruses are transmitted plant-to-plant by many species of aphids. Aphids only retain the ability to transmit these viruses for very short periods of time (minutes to a few hours). Thus, spread is often very rapid and localized."
+    },
+    {
+      "Remedies": "Remove all infected plants and destroy them. Do NOT put them in the compost pile, as the virus may persist in infected plant matter. ...\nMonitor the rest of your plants closely, especially those that were located near infected plants.\nDisinfect gardening tools after every use."
+    }
+  ],
+
+
+  "Tomato Healthy": [
+    {
+      "Causes": "N/A! The leaf is Healthy!!!\nTomatoes are low in calories and provide important nutrients like vitamin C and potassium. They're also rich in antioxidants—one called lycopene, responsible for tomatoes' characteristic color, is linked to several benefits, such as a reduced risk of heart disease and certain cancers."
+    },
+    {
+      "Remedies": "N/A! The leaf is Healthy!!!\nTomatoes contain antioxidants, such as lycopene and vitamin C. Consuming tomatoes can help provide your body with these antioxidants. That may, in turn, help fight free radicals."
+    }
+  ],
+
+
+
+  "Healthy": [
+    {
+      "Causes": "N/A"
+    },
+    {
+      "Remedies": "N/A"
+    }
+  ]
+}
