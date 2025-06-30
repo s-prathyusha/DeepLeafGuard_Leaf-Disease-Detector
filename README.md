@@ -91,8 +91,8 @@ In agriculture, the delayed detection of plant leaf diseases leads to significan
 
 ### ✅ Detected Disease with Remedies
 
-![Detected Disease](./Output%20Screens/7.jpeg)  
-![Result View](./Output%20Screens/6.jpeg)
+![Detected Disease](./Output%20Screens/6.jpeg)  
+![Result View](./Output%20Screens/7.jpeg)
 
 ---
 
