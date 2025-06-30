@@ -66,33 +66,33 @@ In agriculture, the delayed detection of plant leaf diseases leads to significan
 
 ### 🏠 Welcome Screen
 
-![Home](./1.jpeg)
+![Home](./Output Screens/1.jpeg)
 
 ---
 
 ### 📤 Upload Image Screen
 
-![Upload](./2.jpeg)
+![Upload](./Output Screens/2.jpeg)
 
 ---
 
 ### ➕ Upload via Camera/Gallery
 
-![Upload Options](./3.jpeg)  
-![Upload Options Expanded](./4.jpeg)
+![Upload Options](./Output Screens/3.jpeg)  
+![Upload Options Expanded](./Output Screens/4.jpeg)
 
 ---
 
 ### ❌ Invalid Image (Not a Leaf)
 
-![Not a Leaf](./5.jpeg)
+![Not a Leaf](./Output Screens/5.jpeg)
 
 ---
 
 ### ✅ Detected Disease with Remedies
 
-![Detected Disease](./7.jpeg)  
-![Result View](./6.jpeg)
+![Detected Disease](./Output Screens/7.jpeg)  
+![Result View](./Output Screens/6.jpeg)
 
 ---
 
